@@ -28,5 +28,5 @@ function main() {
         console.log(response.rows);
     });
 }
-main();
+// main();
 // https://zest-knee-b08.notion.site/Hello-bhaiya-new-doubt-below-as-you-told-to-share-all-the-steps-i-did-yesterday-14817f1447c180ac94e9c4654f9fbbba
